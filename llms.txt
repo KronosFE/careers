@@ -1,0 +1,19 @@
+# Kronos Fusion Energy — /careers
+
+> 15 pages. Design-and-simulation stage; open, no economics.
+
+- [AI / ML Controls Engineer — KRONOS-CTRL — Careers](https://kronosfusionenergy.com/careers/ai-ml-controls-engineer-kronosctrl.html): Build the AI-native control stack that runs the plant — digital twin, real-time control, and the assurance that keeps it
+- [Cryogenics Engineer — Magnet Cooling — Careers](https://kronosfusionenergy.com/careers/cryogenics-engineer-magnet-cooling.html): Design the cryogenic systems that keep the superconducting magnets cold, stable, and safe.
+- [Direct Energy Conversion Engineer — Burner DEC Train — Careers](https://kronosfusionenergy.com/careers/direct-energy-conversion-engineer-burner-dec-train.html): Turn charged particles straight into electricity — design the direct-energy-conversion train that removes the steam cycl
+- [Fuel Cycle & Tritium Systems Engineer — Careers](https://kronosfusionenergy.com/careers/fuel-cycle-tritium-systems-engineer.html): Design the tritium and helium-3 fuel cycle — breeding, extraction, storage, accountancy, and safe handling.
+- [Fusion Materials Scientist — First Wall & Blanket — Careers](https://kronosfusionenergy.com/careers/fusion-materials-scientist-first-wall-blanket.html): Own the materials that live under 14 MeV neutrons — first wall, breeding blanket, and the low-activation choices behind 
+- [General Interest — Careers](https://kronosfusionenergy.com/careers/general-interest.html): Introduce yourself to Kronos Fusion Energy.
+- [Careers](https://kronosfusionenergy.com/careers/): Join Kronos Fusion Energy — 12 open roles across physics, magnets, materials, AI, and systems.
+- [Mechanical / Structural Engineer — Vacuum Vessel & Structures — Careers](https://kronosfusionenergy.com/careers/mechanical-structural-engineer-vacuum-vessel-structures.html): Engineer the vessel and structures that hold the machine together against magnetic, thermal, and vacuum loads.
+- [Neutronics Engineer — Careers](https://kronosfusionenergy.com/careers/neutronics-engineer.html): Model the neutrons that define a fusion machine — transport, shielding, activation, and the damage budget that sets comp
+- [Nuclear Licensing & Safety Lead — Careers](https://kronosfusionenergy.com/careers/nuclear-licensing-safety-lead.html): Lead the licensing and safety strategy — including engagement under the byproduct-material framework.
+- [Plasma Physicist — Simulation & Control — Careers](https://kronosfusionenergy.com/careers/plasma-physicist-simulation-control.html): Own the plasma physics of both Kronos machines in a simulation-first program — equilibrium, stability, transport, and th
+- [Simulation Software Engineer — Digital Twin & HPC — Careers](https://kronosfusionenergy.com/careers/simulation-software-engineer-digital-twin-hpc.html): Build the compute substrate and software behind the twin — from HPC pipelines to the interactive open model.
+- [Superconducting Magnet Engineer (REBCO / HTS) — Careers](https://kronosfusionenergy.com/careers/superconducting-magnet-engineer-rebco-hts.html): Design the high-field REBCO magnets at the heart of both machines — the breeder center stack and the burner's high-field
+- [Systems / Project Engineer — FOAK Build & Construction Readiness — Careers](https://kronosfusionenergy.com/careers/systems-project-engineer-foak-build-construction-readiness.html): Drive the first-of-a-kind build — the gates, integration, schedule, and construction readiness that turn a design into a
+- [Thank you — Careers](https://kronosfusionenergy.com/careers/thanks.html): Application received.
